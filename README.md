@@ -1,6 +1,6 @@
 # BlackBEQuery
 
-**插件已停止开发，请移步[LLBlackBEEx](https://github.com/lgc2333/LLSEPlugins/tree/main/LLBlackBEEx)**
+**插件已停止开发，请移步[LLBlackBEEx](https://github.com/lgc-LLSEDev/LLBlackBEEx)**
 
 Version: 1.0.2
 
