@@ -1,0 +1,20 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/BlackBEQuery",
+  "version": "1.0.3",
+  "dependencies": {},
+  "information": {
+    "name": "BlackBEQuery",
+    "description": "[停更] 在游戏内查询BlackBE违规记录",
+    "author": "student_2333 <lgc2333@126.com>",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/lgc-LLSEDev/BlackBEQuery"
+  },
+  "placement": [
+    {
+      "source": "BlackBEQuery.lxl.js",
+      "destination": "plugins/BlackBEQuery.js"
+    }
+  ],
+  "possession": ["plugins/BlackBEQuery/"]
+}
