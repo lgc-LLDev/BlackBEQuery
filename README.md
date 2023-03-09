@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+
 # BlackBEQuery
 
 **插件已停止开发，请移步[LLBlackBEEx](https://github.com/lgc-LLSEDev/LLBlackBEEx)**
@@ -27,6 +29,24 @@ _注：LLSE 暂不支持 GET 请求带 Headers，因安全性考虑，暂不实�
 ## 安装方法
 
 - 将 `BlackBEQuery.lxl.js` 文件放入 `BDS根目录/plugins` 文件夹内
+
+## 联系我
+
+QQ：3076823485  
+吹水群：[1105946125](https://jq.qq.com/?_wv=1027&k=Z3n1MpEp)  
+邮箱：<lgc2333@126.com>
+
+## 赞助
+
+感谢大家的赞助！你们的赞助将是我继续创作的动力！
+
+- [爱发电](https://afdian.net/@lgc2333)
+- <details>
+    <summary>赞助二维码（点击展开）</summary>
+
+  ![讨饭](https://raw.githubusercontent.com/lgc2333/ShigureBotMenu/master/src/imgs/sponsor.png)
+
+  </details>
 
 ## 更新日志
 
