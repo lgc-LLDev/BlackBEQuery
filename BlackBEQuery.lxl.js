@@ -1,6 +1,6 @@
 /* global ll mc JsonConfigFile */
 // LiteLoaderScript Dev Helper
-/// <reference path="d:\Coding\bds\.vscode\LLSEDevHelper/Library/JS/Api.js" />
+/// <reference path="../HelperLib/src/index.d.ts"/>
 
 const config = new JsonConfigFile('plugins/GoCQSync/config.json');
 const apiToken = config.init('apiToken', '');
