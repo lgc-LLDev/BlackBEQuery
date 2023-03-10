@@ -1,9 +1,9 @@
-/* global ll mc JsonConfigFile */
+/* global ll mc */
 // LiteLoaderScript Dev Helper
 /// <reference path="../HelperLib/src/index.d.ts"/>
 
-const config = new JsonConfigFile('plugins/GoCQSync/config.json');
-const apiToken = config.init('apiToken', '');
+// const config = new JsonConfigFile('plugins/GoCQSync/config.json');
+// const apiToken = config.init('apiToken', '');
 
 const plInfo = {
   name: 'BlackBEQuery',
