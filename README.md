@@ -22,9 +22,9 @@ _注：LLSE 暂不支持 GET 请求带 Headers，因安全性考虑，暂不实�
 
 ## 图骗欣赏
 
-![1](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/BlackBEQuery/1.jpg)
+![1](https://media.githubusercontent.com/media/lgc-LLSEDev/readme/main/BlackBEQuery/1.jpg)
 
-![2](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/BlackBEQuery/2.jpg)
+![2](https://media.githubusercontent.com/media/lgc-LLSEDev/readme/main/BlackBEQuery/2.jpg)
 
 ## 安装方法
 
